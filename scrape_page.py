@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-column_headings = ["HelmName", "Class", "PY", "	SailNo", "Fleet", "Rank", "Elapsed", "Corrected", "Points", "Reg No.", "Reg Date"]
+column_headings = ["HelmName", "Class", "PY", "SailNo", "Fleet", "Rank", "Elapsed", "Corrected", "Points", "Reg No.", "Reg Date"]
 
 url = 'https://www.warsashsc.org.uk/results/18wa1.htm'
 
